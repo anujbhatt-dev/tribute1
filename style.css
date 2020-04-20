@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  padding: 10%;
+  padding-top: 5px;
+  background: linear-gradient(90deg,#fdd998,#dbdbdb,#fdd998);
+}
+
+#tribute-info{
+  text-align: justify;
+  margin-top: 25px;
+}
+
+#title{
+  font-size: 60px
+}
+
+h1{
+  margin-bottom: 20px
+}
+
+.title-div{
+  background-color: #fdd998;
+}
+
+h3{
+  font-size: 30px;
+}
+
+h2{
+  margin-top: 50px;
+}
+
+li{
+  line-height: 2;
+}
